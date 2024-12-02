@@ -1,3 +1,6 @@
+title: My Jekyll Site
+description: A sample Jekyll site with basic functionality
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
